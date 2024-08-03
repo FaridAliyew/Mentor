@@ -27,7 +27,7 @@ console.log(cavab);
 
 // -------- 3. m qəpiyə n dondurma almaq üçün alqoritm yazın (meselen 60, 25);
 
-// const number = Number(prompt("Kaşlokda nəqədər pulun var ay kasıb.."))
+// const number = Number(prompt("nəqədər pulunuz var ?"))
 
 // function myFunc(number) {
 //     return Math.floor(number / 25);
