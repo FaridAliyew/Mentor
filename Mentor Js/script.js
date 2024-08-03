@@ -103,7 +103,7 @@ console.log(cavab);
 
 
 
-// // ----- Task 9 -----------
+// ----- Task 9 -----------
 // const number = Number(prompt("Bir reqem daxil edin.."));
 
 // function myFunc(number) {
